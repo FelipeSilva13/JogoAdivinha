@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JogoAdivinha.iml" filepath="$PROJECT_DIR$/.idea/JogoAdivinha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JogoAdivinhacao/JogoAdivinhacao.iml" filepath="$PROJECT_DIR$/JogoAdivinhacao/JogoAdivinhacao.iml" />
+    </modules>
+  </component>
+</project>
